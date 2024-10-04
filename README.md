@@ -19,3 +19,7 @@ Initially, I was hesitant to include this project in my portfolio due to its sim
 - **Image Manipulation**: Supported operations such as copying images, setting dimensions, and creating new pictures from existing files or `BufferedImage` objects.
 
 This project showcases my initial efforts with Java programming and serves as a foundation for my later work with more complex projects.
+
+## Acknowledgements
+
+The original Turtle and World classes were inspired by the work of Georgia Institute of Technology and are used for educational purposes.
