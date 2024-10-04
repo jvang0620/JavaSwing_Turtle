@@ -20,6 +20,19 @@ Initially, I was hesitant to include this project in my portfolio due to its sim
 
 This project showcases my initial efforts with Java programming and serves as a foundation for my later work with more complex projects.
 
+## Requirements
+
+- Java Development Kit (JDK) 8 or later
+- A Java IDE or text editor to edit and run the code
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Jai Vang
+
 ## Acknowledgements
 
 The original Turtle and World classes were inspired by the work of Georgia Institute of Technology and are used for educational purposes.
