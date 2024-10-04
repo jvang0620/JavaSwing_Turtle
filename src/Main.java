@@ -12,25 +12,35 @@ public class Main {
     yertle.forward();
     yertle.turnRight();
 
+    yertle.setColor(Color.red);
+    yertle.forward();
+    yertle.turnRight();
+
+    yertle.setColor(Color.green);
+    yertle.forward();
+    yertle.setColor(Color.pink);
+    yertle.forward();
+    yertle.turnRight();
+
+    yertle.setColor(Color.orange);
+    yertle.forward();
+    yertle.setColor(Color.black);
+    yertle.forward();
+    yertle.turnRight();
+
+    yertle.setColor(Color.pink);
+    yertle.forward();
+    yertle.setColor(Color.cyan);
+    yertle.forward();
+    yertle.turnRight();
+
+    yertle.setColor(Color.magenta);
     yertle.forward();
     yertle.turnRight();
 
     yertle.forward();
-    yertle.forward();
-    yertle.turnRight();
 
-    yertle.forward();
-    yertle.forward();
-    yertle.turnRight();
-
-    yertle.forward();
-    yertle.forward();
-    yertle.turnRight();
-
-    yertle.forward();
-    yertle.turnRight();
-
-    yertle.forward();
+    yertle.setColor(Color.blue);
 
     world.setVisible(true);
   }
